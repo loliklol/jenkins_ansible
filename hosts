@@ -1,0 +1,1 @@
+linux ansible_host=127.0.0.1 ansible_port=22222 ansible_user=iliya ansible_private_key_file=~/.ssh/is_rsa.pub
